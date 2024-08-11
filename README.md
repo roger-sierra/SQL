@@ -11,8 +11,6 @@ This repository contains a SQL script designed to clean and preprocess a dataset
 - [Prerequisites](#prerequisites)
 - [Script Details](#script-details)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 
